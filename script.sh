@@ -1,4 +1,5 @@
 !#/bin/bash
+echo "HELLO"
 sleep 10
 touch file.txt
 sleep 1
